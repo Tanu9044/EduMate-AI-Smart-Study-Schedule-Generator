@@ -1,0 +1,1 @@
+# EduMate-AI-Smart-Study-Schedule-Generator
