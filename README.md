@@ -31,12 +31,18 @@ tkinter.messagebox for alerts
    ```python main.py```
    
 🧪 Usage
-Launch the application.
+*Launch the application.
 Enter your subjects, chapters, exam dates, and chapter priority.
 Click "Generate Study Plan".
 The app will display an optimized study schedule based on priority and exam dates.
 
-EduMate-AI/
+💡 Future Enhancements
+✅ Export to PDF or Excel
+✅ Daily notifications/reminders
+✅ Save and load previous schedules
+
+Project Structure:
+```EduMate-AI/
 │
 ├── main.py                 # Main GUI application
 ├── README.md               # Project documentation
@@ -45,10 +51,9 @@ EduMate-AI/
 └── requirements.txt        # (Optional) for future expansion
 
 
-💡 Future Enhancements
-✅ Export to PDF or Excel
-✅ Daily notifications/reminders
-✅ Save and load previous schedules
+
+
+
 
 
 
