@@ -7,9 +7,9 @@
 2. GUI Library: Tkinter
 
 Libraries Used:
-✅ datetime for date calculations
-✅ ttk for advanced widgets
-✅ tkinter.messagebox for alerts
+* datetime for date calculations
+* ttk for advanced widgets
+* tkinter.messagebox for alerts
 
 🎯 Features
 ✅ Add multiple subjects and chapters
