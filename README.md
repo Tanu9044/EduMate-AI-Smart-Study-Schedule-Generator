@@ -3,13 +3,13 @@
 🎯 EduMate-AI is a Python + Tkinter-based desktop application that helps students plan their study schedule intelligently. It allows users to input their subjects, chapters, exam dates, and priority levels — and then generates a personalized, AI-inspired smart study plan.
 
 🔧 Tech Stack
-Language: Python 3.x
-GUI Library: Tkinter
+1. Language: Python 3.x
+2. GUI Library: Tkinter
 
 Libraries Used:
-datetime for date calculations
-ttk for advanced widgets
-tkinter.messagebox for alerts
+✅ datetime for date calculations
+✅ ttk for advanced widgets
+✅ tkinter.messagebox for alerts
 
 🎯 Features
 ✅ Add multiple subjects and chapters
@@ -21,7 +21,7 @@ tkinter.messagebox for alerts
 🧑‍💻 Prerequisites
  * Python 3.x installed on your system
  * No external libraries needed (pure Tkinter-based)
- * 
+   
 🛠️ Installation Steps
 1. Clone the repository:
 ```git clone https://github.com/your-username/EduMate-AI-Smart-Study-Schedule-Generator.git```
@@ -31,10 +31,10 @@ tkinter.messagebox for alerts
    ```python main.py```
    
 🧪 Usage
-*Launch the application.
-Enter your subjects, chapters, exam dates, and chapter priority.
-Click "Generate Study Plan".
-The app will display an optimized study schedule based on priority and exam dates.
+- Launch the application.
+- Enter your subjects, chapters, exam dates, and chapter priority.
+- Click "Generate Study Plan".
+  The app will display an optimized study schedule based on priority and exam dates.
 
 💡 Future Enhancements
 ✅ Export to PDF or Excel
