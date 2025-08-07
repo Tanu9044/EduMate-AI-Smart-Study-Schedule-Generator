@@ -41,14 +41,6 @@ Libraries Used:
 ✅ Daily notifications/reminders
 ✅ Save and load previous schedules
 
-Project Structure:
-```EduMate-AI/
-│
-├── main.py                 # Main GUI application
-├── README.md               # Project documentation
-├── /screenshots            # App screenshots (optional)
-├── /assets                 # Icons or extra resources (optional)
-└── requirements.txt        # (Optional) for future expansion
 
 
 
